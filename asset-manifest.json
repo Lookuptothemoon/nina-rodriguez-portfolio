@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nina-rodriguez-portfolio/static/css/main.f2ac5b1f.css",
-    "main.js": "/nina-rodriguez-portfolio/static/js/main.c8b37247.js",
+    "main.js": "/nina-rodriguez-portfolio/static/js/main.9d61e1cd.js",
     "static/js/787.fc78acde.chunk.js": "/nina-rodriguez-portfolio/static/js/787.fc78acde.chunk.js",
     "static/media/31.jpg": "/nina-rodriguez-portfolio/static/media/31.548b1413a0a265b2ff5f.jpg",
     "static/media/32.jpg": "/nina-rodriguez-portfolio/static/media/32.2ee41400ca95505f601b.jpg",
@@ -116,11 +116,11 @@
     "static/media/IMG_5783.jpeg": "/nina-rodriguez-portfolio/static/media/IMG_5783.73ccd4483301fc00f7b0.jpeg",
     "index.html": "/nina-rodriguez-portfolio/index.html",
     "main.f2ac5b1f.css.map": "/nina-rodriguez-portfolio/static/css/main.f2ac5b1f.css.map",
-    "main.c8b37247.js.map": "/nina-rodriguez-portfolio/static/js/main.c8b37247.js.map",
+    "main.9d61e1cd.js.map": "/nina-rodriguez-portfolio/static/js/main.9d61e1cd.js.map",
     "787.fc78acde.chunk.js.map": "/nina-rodriguez-portfolio/static/js/787.fc78acde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2ac5b1f.css",
-    "static/js/main.c8b37247.js"
+    "static/js/main.9d61e1cd.js"
   ]
 }
