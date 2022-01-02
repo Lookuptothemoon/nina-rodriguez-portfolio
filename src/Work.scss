@@ -1,0 +1,32 @@
+.work {
+    background-color: #f5f3ef;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 20px;
+
+    img {
+        margin: 10px;
+    }
+}
+
+// larger screen
+@media all and (min-width: 701px) {
+    .work {
+        img {
+            height: 300px;
+            width: auto;
+        }
+    }
+}
+
+// smaller screen
+@media all and (max-width: 700px) {
+    .work {
+        img {
+            width: 75%;
+            height: auto;
+        }
+    }
+}

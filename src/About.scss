@@ -1,0 +1,140 @@
+.about {
+    background-color: #f5f3ef;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 20px;
+
+    .about-intro {
+        max-width: 800px;
+        margin-bottom: 30px;
+
+        p {
+            color: gray;
+            text-align: center;
+            font-size: max(2.5vw, 30px);
+        }
+    }
+
+    .about-bio {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .about-bio-left {
+            padding: 10px;
+
+            p {
+                font-size: max(1vw, 18px);
+            }
+
+            .about-bio-left-nums {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                margin-top: 50px;
+
+                p {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    text-align: center;
+                    font-size: max(1vw, 18px);
+                    margin: 0 11px;
+                }
+            }
+        }
+
+        .about-bio-right {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            img {
+                position: absolute;
+                top: 0;
+                right: 0;
+                width: 95%;
+                height: auto;
+            }
+
+            .about-bio-right-border {
+                border: 2px solid black;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 95%;
+                height: 95%;
+            }
+        }
+    }
+
+    .about-body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+
+        img {
+            width: 300px;
+            height: auto;
+            padding: 5px;
+        }
+    }
+}
+
+.important {
+    color: black;
+    font-weight: bolder;
+}
+
+.num {
+    font-size: 25px;
+    margin-right: 5px;
+}
+
+.border {
+    background-color: lightgray;
+    width: 75%;
+    height: 2px;
+    margin: 100px 0;
+}
+
+// larger screen
+@media all and (min-width: 1071px) {
+    .about-bio {
+        max-width: 1000px;
+
+        .about-bio-left {
+            width: 50%;
+            margin-right: 50px;
+        }
+
+        .about-bio-right {
+            height: 375px;
+            width: 500px;
+        }
+    }
+}
+
+// smaller screen
+@media all and (max-width: 1070px) {
+    .about-bio {
+        padding: 10px;
+        flex-direction: column-reverse;
+        max-width: 320px;
+
+        .about-bio-left {
+            margin: 0;
+            margin-top: 50px;
+            width: 100%;
+        }
+
+        .about-bio-right {
+            height: 240px;
+            width: 300px;
+        }
+    }
+}

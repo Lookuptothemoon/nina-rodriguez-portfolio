@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    min-width: 320px;
+    max-width: 2560px;
+    background-color: lightgray;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+    :hover {
+        cursor: pointer;
+    }
+}

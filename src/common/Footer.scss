@@ -1,0 +1,40 @@
+footer {
+	background-color: white;
+	padding: 37px 0;
+
+	.footer-title {
+		text-align: center;
+		margin-bottom: 25px;
+		font-size: max(1.5vw, 20px);
+		font-weight: bold;
+	}
+
+	.footer-nav {
+		display: flex;
+		justify-content: center;
+		flex-wrap: wrap;
+
+		.footer-nav-item {
+			display: flex;
+			align-items: center;
+			flex-direction: column;
+			width: 250px;
+			margin: 20px;
+
+			.footer-nav-item-title {
+				font-size: max(1vw, 18px);
+			}
+		}
+	}
+}
+
+.social-icons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+
+	a {
+		margin: 0 5px;
+	}
+}
