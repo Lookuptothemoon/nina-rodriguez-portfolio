@@ -1,6 +1,9 @@
 import "./Contact.scss";
+import useGATracker from "./useGATracker";
 
 function Contact() {
+    useGATracker();
+    
     return (
         <div className="contact">
             <div className="contact-intro">

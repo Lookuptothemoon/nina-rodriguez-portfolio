@@ -1,15 +1,15 @@
-import { useEffect, useState } from "react";
-import Loading from "./Loading";
 import bioImg from "./img/about.jpg";
 import "./About.scss";
+import useGATracker from "./useGATracker";
 
 function About() {
     // get directory where images are located
     const importAllFrom = (dir) => {
         return dir.keys().map(dir);
     }
-    
     const personalImgs = importAllFrom(require.context('./img/personal', false, /\.(png|jpe?g|svg)$/));
+    
+    useGATracker();
 
     return (
         <div className="about">

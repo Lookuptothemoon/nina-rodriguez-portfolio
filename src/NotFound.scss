@@ -1,0 +1,17 @@
+.notfound {
+    background-color: #f5f3ef;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 20px;
+    min-height: 100vh;
+
+    .notfound-text {
+        padding-top: 30px;
+
+        a {
+            text-decoration: underline;
+            color: red;
+        }
+    }
+}

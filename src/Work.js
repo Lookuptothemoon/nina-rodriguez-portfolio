@@ -1,5 +1,4 @@
-import { useEffect, useState } from "react";
-import Loading from "./Loading";
+import useGATracker from "./useGATracker";
 import "./Work.scss";
 
 function Work() {
@@ -9,6 +8,8 @@ function Work() {
     }
     const workImgs = importAllFrom(require.context('./img/work', false, /\.(png|jpe?g|svg)$/));
 
+    useGATracker();
+    
     return (
         <div className="work">
             {workImgs.map((img, idx) =>
