@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nina-rodriguez-portfolio/static/css/main.cded2cb2.css",
-    "main.js": "/nina-rodriguez-portfolio/static/js/main.6a0dc4d3.js",
+    "main.css": "/nina-rodriguez-portfolio/static/css/main.2ece82fd.css",
+    "main.js": "/nina-rodriguez-portfolio/static/js/main.3f9fa5df.js",
     "static/js/787.fc78acde.chunk.js": "/nina-rodriguez-portfolio/static/js/787.fc78acde.chunk.js",
     "static/media/31.jpg": "/nina-rodriguez-portfolio/static/media/31.548b1413a0a265b2ff5f.jpg",
     "static/media/32.jpg": "/nina-rodriguez-portfolio/static/media/32.2ee41400ca95505f601b.jpg",
@@ -19,14 +19,11 @@
     "static/media/IMG_1223_Facetune_10-10-2021-15-22-23.jpeg": "/nina-rodriguez-portfolio/static/media/IMG_1223_Facetune_10-10-2021-15-22-23.50529d2bf76759591fba.jpeg",
     "static/media/k.jpg": "/nina-rodriguez-portfolio/static/media/k.1d3e7575aa004d13ec25.jpg",
     "static/media/h.jpg": "/nina-rodriguez-portfolio/static/media/h.d438455cd19f40bef482.jpg",
-    "static/media/j.jpg": "/nina-rodriguez-portfolio/static/media/j.2e59a2a984cf1e90dd0e.jpg",
     "static/media/l.jpg": "/nina-rodriguez-portfolio/static/media/l.2e59a2a984cf1e90dd0e.jpg",
-    "static/media/n.jpg": "/nina-rodriguez-portfolio/static/media/n.62d03b2a80f2de021c69.jpg",
     "static/media/o.jpg": "/nina-rodriguez-portfolio/static/media/o.54cb7c2aa646a076fbb8.jpg",
     "static/media/58.jpeg": "/nina-rodriguez-portfolio/static/media/58.e335e1104d115c4a2949.jpeg",
     "static/media/IMG_1233_Facetune_10-10-2021-14-09-59.jpeg": "/nina-rodriguez-portfolio/static/media/IMG_1233_Facetune_10-10-2021-14-09-59.b6c6c296d06a57f63613.jpeg",
     "static/media/53.jpeg": "/nina-rodriguez-portfolio/static/media/53.3e9f9765e0353bbd46bd.jpeg",
-    "static/media/m.jpg": "/nina-rodriguez-portfolio/static/media/m.f3b5afbb482f00cdec7d.jpg",
     "static/media/g.jpg": "/nina-rodriguez-portfolio/static/media/g.a67a264ac4f17fda334b.jpg",
     "static/media/IMG_1246_Facetune_10-10-2021-15-10-39.jpeg": "/nina-rodriguez-portfolio/static/media/IMG_1246_Facetune_10-10-2021-15-10-39.9f5196d27fc82badcec6.jpeg",
     "static/media/e.jpg": "/nina-rodriguez-portfolio/static/media/e.728b80a99cdb81a06810.jpg",
@@ -124,12 +121,12 @@
     "static/media/IMG_4136.jpeg": "/nina-rodriguez-portfolio/static/media/IMG_4136.ba6d12c1987091fda92b.jpeg",
     "static/media/IMG_5783.jpeg": "/nina-rodriguez-portfolio/static/media/IMG_5783.73ccd4483301fc00f7b0.jpeg",
     "index.html": "/nina-rodriguez-portfolio/index.html",
-    "main.cded2cb2.css.map": "/nina-rodriguez-portfolio/static/css/main.cded2cb2.css.map",
-    "main.6a0dc4d3.js.map": "/nina-rodriguez-portfolio/static/js/main.6a0dc4d3.js.map",
+    "main.2ece82fd.css.map": "/nina-rodriguez-portfolio/static/css/main.2ece82fd.css.map",
+    "main.3f9fa5df.js.map": "/nina-rodriguez-portfolio/static/js/main.3f9fa5df.js.map",
     "787.fc78acde.chunk.js.map": "/nina-rodriguez-portfolio/static/js/787.fc78acde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cded2cb2.css",
-    "static/js/main.6a0dc4d3.js"
+    "static/css/main.2ece82fd.css",
+    "static/js/main.3f9fa5df.js"
   ]
 }
